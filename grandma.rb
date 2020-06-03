@@ -4,6 +4,7 @@ def speak_to_grandma(phrase)
   elsif phrase = "i love you grandma"
     "HUH?! SPEAK UP, SONNY!"
   else = ""
+    "HUH?! SPEAK UP, SONNY!"
 
   end
 end
